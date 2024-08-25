@@ -2,7 +2,7 @@
 layout: page
 title: Osaka before Christmas
 description: Osaka in my eyes
-img: assets/img/osaka_before_noel/background.jpeg
+img: assets/img/osaka_before_noel/background.JPEG
 importance: 1
 category: osaka
 giscus_comments: false
@@ -14,13 +14,13 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Osaka), Osaka is a design
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/castle.jpeg" title="osaka castle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/castle.JPEG" title="osaka castle" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/takoyaki.jpeg" title="takoyaki" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/takoyaki.JPEG" title="takoyaki" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/shinseikai.jpeg" title="shinseikai" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/shinseikai.JPEG" title="shinseikai" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,7 @@ Shinsekai is a lively area featuring budget-friendly eateries, restaurants, and 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/shinseikai_night.jpeg" title="shinseikai night" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/osaka_before_noel/shinseikai_night.JPEG" title="shinseikai night" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,13 +42,13 @@ In contrast to the lively and bustling scenes of Shinsaibashi or Dotonbori at ni
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/osaka_before_noel/dotonbori.jpeg" title="dotonbori" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/osaka_before_noel/dotonbori.JPEG" title="dotonbori" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/osaka_before_noel/shinsaibashi.jpeg" title="shinsabashi night" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/osaka_before_noel/shinsaibashi.JPEG" title="shinsabashi night" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/osaka_before_noel/dotonbori_morning.jpeg" title="dotonbori morning" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/osaka_before_noel/dotonbori_morning.JPEG" title="dotonbori morning" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

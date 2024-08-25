@@ -40,13 +40,13 @@ There are 3 ways to get to the island: zipline, canoe and ferry. I chose the fer
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/nami_island/duck.jpeg" title="dotonbori" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/nami_island/duck.JPEG" title="Snow Duck" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/nami_island/scene.jpeg" title="shinsabashi night" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/nami_island/scene.JPEG" title="people" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/nami_island/peacock.jpeg" title="dotonbori morning" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/nami_island/peacock.JPEG" title="Peacock" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
