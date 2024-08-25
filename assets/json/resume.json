@@ -1,200 +1,306 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tran Dang Trung Duc",
+    "label": "AI Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "trandangtrungduc@gmail.com",
+    "phone": "(82) ****-**99",
+    "url": "https://github.com/trandangtrungduc/",
+    "summary": "An AI researcher in 3D/4D instance segmentation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Dongil-ro",
+      "postalCode": "01843",
+      "city": "Seoul",
+      "countryCode": "South Korea",
+      "region": "Nowon-gu"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "trandangtrungduc",
+        "url": "https://www.linkedin.com/in/trandangtrungduc/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Visual Computing Lab",
+      "position": "Research Assistant",
+      "url": "https://vcl.seoultech.ac.kr/",
+      "startDate": "2022-09",
+      "endDate": "2024-11",
+      "summary": "Working on government projects assigned to the lab and writing a paper",
+      "highlights": [
+        "A paper to ACM Multimedia 2024"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Bosch Global Software Technologies",
+      "position": "Software Engineer",
+      "url": "https://www.bosch-softwaretechnologies.com/en/index.html",
+      "startDate": "2021-04",
+      "endDate": "2022-07",
+      "summary": "Working as a software developer for projects from China and Japan. Task: unit testing, integration testing, component/function development, devops, lab testing, static code analysis,...",
+      "highlights": [
+        "The fastest person can be converted directly to an official employee after 3/6 months of internship."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Seoul National University of Science and Technology",
+      "location": "Seoul, South Korea",
+      "url": "https://en.seoultech.ac.kr/",
+      "area": "Computer Vision - 33 credits in 4 semesters",
+      "studyType": "Master",
+      "startDate": "2022-09-01",
+      "endDate": "2024-12-01",
+      "score": "4.5/4.5",
+      "courses": [
+        "Introduction of Unmanned Robotic Vehicles",
+        "Reinforcement Learning",
+        "Machine Learning",
+        "Statistic Machine Learning",
+        "Optimization Algorithm",
+        "Digital Image Processing",
+        "Advanced Topics on Information Technology",
+        "Advanced Natural Language Processing",
+        "Introduction to Deep Learning",
+        "..."
+      ]
+    },
+    {
+      "institution": "Ho Chi Minh City University of Technology",
+      "location": "HCM City, Vietnam",
+      "url": "https://hcmut.edu.vn/",
+      "area": "Data Science - 18 credits in 1 semester",
+      "studyType": "Master",
+      "startDate": "2021-03",
+      "endDate": "2022-11",
+      "score": "8.07/10",
+      "courses": [
+        "Programming Foundation for Data Analysis and Visualization",
+        "Advanced Algorithm",
+        "Mathematical Foundation for Computer Science",
+        "Methodology of Scientific Research",
+        "Business Ethics and Corporate Social Responsibility",
+        "Philosophy"
+      ]
+    },
+    {
+      "institution": "Ho Chi Minh City University of Technology",
+      "location": "HCM City, Vietnam",
+      "url": "https://hcmut.edu.vn/",
+      "area": "Mechatronics - 268 credits in 5 years",
+      "studyType": "Engineer",
+      "startDate": "2015-09",
+      "endDate": "2021-11",
+      "score": "7.87/10",
+      "courses": [
+        "Statistic Methods and Data Analysis",
+        "Robotics",
+        "Intelligent Actuators",
+        "Mechatronics System Design",
+        "Digital Signal Processing and Application",
+        "Object Oriented Design and Analysis",
+        "Advanced Programming Language",
+        "Advanced Data Structure",
+        "Numerical Analysis and Optimization",
+        "Linear and Nonlinear Control Systems",
+        "..."
+      ]
     }
   ],
-  "awards": [
+  "achievements": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Scholarship",
+      "date": "2022-2024",
+      "awarder": "Tuition scholarships",
+      "url": "https://en.seoultech.ac.kr/",
+      "summary": "75% tuition scholarship for all semesters at Seoul National University of Science and Technology in South Korea"
+    },
+    {
+      "title": "Scholarship",
+      "date": "2022",
+      "awarder": "Korean Professor",
+      "url": "https://vcl.seoultech.ac.kr/",
+      "summary": "Full scholarship for studying and researching at Visual Computing Lab of Seoul National University of Science and Technology in South Korea"
+    },
+    {
+      "title": "Final round",
+      "date": "2018",
+      "awarder": "Pasona Global",
+      "url": "https://www.hutech.edu.vn/khoanhatban/tin-tuc-su-kien/14567517-chuong-trinh-giao-luu-quoc-te-pasona",
+      "summary": "Full scholarship for students all over Vietnam. Reached the final round (Top 5) of the Pasona International Exchange Program for students doing summer internships in Japan"
+    },
+    {
+      "title": "Scholarship",
+      "date": "2018",
+      "awarder": "Ho Chi Minh City University of Technology",
+      "url": "https://hcmut.edu.vn/tintuc/chuong-trinh-phat-trien-nguon-nhan-luc-viet-nhat",
+      "summary": "Full scholarship to learn Japanese to prepare to work as an engineer in Japan. The only student who does not need to study Japanese language preparation for the scholarship."
+    },
+    {
+      "title": "Scholarship",
+      "date": "2017",
+      "awarder": "Tuition scholarships",
+      "url": "https://ipu-japan.ac.jp/vietnam/",
+      "summary": "Full scholarship for students all over Vietnam. Top 1/2 students received 100% tuition scholarships for Business Administration at International Pacific University in Japan"
+    },
+    {
+      "title": "Final round",
+      "date": "2017",
+      "awarder": "Mitsubishi Heavy Industries",
+      "url": "https://hssv.ulis.vnu.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-nhat-ban-nam-2017-2018-hoc-bong-mitsubishi/",
+      "summary": "Full scholarship for students all over Vietnam to study Japanese and university in Japan. Reached the final round (Top 6) of the scholarship"
+    },
+    {
+      "title": "Scholarship",
+      "date": "2016",
+      "awarder": "Vietnamese Government",
+      "url": "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-dai-hoc-ve-nang-luong-nguyen-tu-tai-nhat-ban-nam-2016.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/1173",
+      "summary": "Full scholarships for 10 students from all over Vietnam to study nuclear energy in Japan"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Build Deep Learning Models with TensorFlow Skill Path",
+      "date": "2021-03",
+      "issuer": "Codecademy",
+      "url": "https://www.codecademy.com/profiles/cTrnngTrung1508045907/certificates/5f85c4b9c431a800138a60e0",
+      "icon": "fa-solid fa-laptop-code"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Learn Natural Language Processing Course",
+      "date": "2021-03",
+      "issuer": "Codecademy",
+      "url": "https://www.codecademy.com/profiles/cTrnngTrung1508045907/certificates/b6d2d1d0d1c2d9dfae7a6ea0197354ba",
+      "icon": "fa-solid fa-laptop-code"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Convolutional Neural Networks in Python: CNN Computer Vision",
+      "date": "2021-02",
+      "issuer": "Udemy",
+      "url": "http://ude.my/UC-a969bc93-4ced-4f8c-b913-72c78f82616c",
+      "icon": "fa-solid fa-book"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Machine learning-From Basics to Advanced",
+      "date": "2021-02",
+      "issuer": "Udemy",
+      "url": "http://ude.my/UC-7b2fd872-5bbf-4588-b53d-05a504e9c724",
+      "icon": "fa-solid fa-book"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Python for Data Science Essential Training Part 1",
+      "date": "2021-02",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/2f2eb9f3bef55bfd68fbbba5f92fb0578abb9cc5354a243a7693bb87a73c5aaf?trk=backfilled_certificate",
+      "icon": "fa-solid fa-laptop-code"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "MSTA3D: Multi-scale Twin-Attention for 3D Instance Segmentation",
+      "publisher": "ACM Multimedia 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Recently, transformer-based techniques incorporating superpoints have become prevalent in 3D instance segmentation. However, they often encounter an over-segmentation problem, especially noticeable with large objects. Additionally, unreliable mask predictions stemming from superpoint mask prediction further compound this issue. To address these challenges, we propose a novel framework called MSTA3D. It leverages multi-scale feature representation and introduces a twin-attention mechanism to effectively capture them. Furthermore, MSTA3D integrates a box query with a box regularizer, offering a complementary spatial constraint alongside semantic queries."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Soft Skill",
+      "level": "",
+      "icon": "fa-solid fa-person-chalkboard",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Presentation",
+        "Hard-working",
+        "Time Management",
+        "Leadership",
+        "Adaptability",
+        "Problem-solving"
+      ]
+    },
+    {
+      "name": "Hard Skill",
+      "level": "",
+      "icon": "fa-solid fa-pencil",
+      "keywords": [
+        "Microsoft Office",
+        "Python Programming",
+        "Github, Docker, PyTorch",
+        "3D Libraries: PLY, Sponv, Open3D, Minkowski,..."
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional working proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Professional working proficiency",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Limited working proficiency",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Computer Vision",
+      "icon": "fa-solid fa-images",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Instance Segmentation",
+        "Semantic Segmentation",
+        "3D Point Cloud",
+        "Lidar"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Robotics",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Autonomous Driving",
+        "VR/AR"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "AI Dictionary for Vietnamese people",
+      "icon": "fa-solid fa-robot",
+      "url": "https://github.com/aidic-org-ebook"
+    },
+    {
+      "name": "Rule-based Chatbot combined with ParlAI",
+      "icon": "fa-solid fa-robot",
+      "url": "https://github.com/trandangtrungduc/ChatBot"
+    },
+    {
+      "name": "Neural Network Controller for Line Follower Robot",
+      "icon": "fa-solid fa-robot",
+      "url": "https://github.com/trandangtrungduc/ChatBot"
+    },
+    {
+      "name": "Obstacle Avoiding & Grasping Robot",
+      "icon": "fa-solid fa-robot",
+      "url": "https://https://github.com/trandangtrungduc/ObstacleAvoiding-GraspingRobot"
+    },
+    {
+      "name": "Arm Robot of 3 Degree of Freedom",
+      "icon": "fa-solid fa-robot",
+      "url": "https://https://github.com/trandangtrungduc/ArmRobot3DOF"
     }
   ]
 }

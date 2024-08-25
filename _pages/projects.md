@@ -1,13 +1,29 @@
 ---
 layout: page
-title: projects
+title: Fun
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: World in my eyes
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [seoul, osaka, kyoto]
 horizontal: false
 ---
+1. :vietnam:: Ha Noi, Thai Binh, Quang Ninh, Hai Phong, Lao Cai, Ha Nam, Hue, Da Nang, Quang Nam, Khanh Hoa, Lam Dong, Ninh Thuan, Binh Thuan, Ba Ria - Vung Tau, Ho Chi Minh City, Can Tho, Soc Trang, Bac Lieu, Ben Tre, Ca Mau
+
+2. :singapore:: Singapore
+
+3. :indonesia:: Riau
+
+4. :malaysia:: Malacca, Kuala Lumpur
+
+5. :kr:: Seoul, Incheon
+
+6. :jp:: Osaka, Kyoto
+ 
+7. :thailand:: Bangkok
+
+<!-- 8. :australia:: Melbourne -->
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -22,14 +38,14 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
+    <div class="row row-cols-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="grid">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -48,14 +64,14 @@ horizontal: false
 {% if page.horizontal %}
 
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
+    <div class="row row-cols-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="grid">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
