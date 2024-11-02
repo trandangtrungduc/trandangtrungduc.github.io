@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Robot
+title: Mobile Robot (Personal Project)
 date: 2021-09-07
 description: simulation and experimental videos
 tags: videos mobile-robot demo
