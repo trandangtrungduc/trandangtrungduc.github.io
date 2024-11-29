@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:dizzy: First author of [a paper](https://acvys.org/proceeding-2024/) (oral) at [ACVYS 2024](https://acvys.org/).
+:dizzy: First author of [a paper](https://acvys.org/proceeding-2024/) at [ACVYS 2024](https://acvys.org/).
