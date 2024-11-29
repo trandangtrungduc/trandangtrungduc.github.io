@@ -31,7 +31,9 @@
       "endDate": "2024-11",
       "summary": "Working on government projects assigned to the lab and writing a paper",
       "highlights": [
-        "A paper to ACM Multimedia 2024"
+        "A paper at ACM Multimedia 2024",
+        "A paper at ACVYS 2024",
+        "A paper at ICEIC 2025"
       ]
     },
     {
@@ -278,28 +280,27 @@
   ],
   "projects": [
     {
-      "name": "AI Dictionary for Vietnamese people",
-      "icon": "fa-solid fa-robot",
+      "name": "Llama for Paper Summary",
+      "url": "https://github.com/trandangtrungduc/llama-paper-summary"
+    },
+    {
+      "name": "AI Dictionary for Vietnamese People",
       "url": "https://github.com/aidic-org-ebook"
     },
     {
-      "name": "Rule-based Chatbot combined with ParlAI",
-      "icon": "fa-solid fa-robot",
+      "name": "Rule-based Chatbot Combined with ParlAI",
       "url": "https://github.com/trandangtrungduc/ChatBot"
     },
     {
       "name": "Neural Network Controller for Line Follower Robot",
-      "icon": "fa-solid fa-robot",
       "url": "https://github.com/trandangtrungduc/ChatBot"
     },
     {
       "name": "Obstacle Avoiding & Grasping Robot",
-      "icon": "fa-solid fa-robot",
       "url": "https://https://github.com/trandangtrungduc/ObstacleAvoiding-GraspingRobot"
     },
     {
       "name": "Arm Robot of 3 Degree of Freedom",
-      "icon": "fa-solid fa-robot",
       "url": "https://https://github.com/trandangtrungduc/ArmRobot3DOF"
     }
   ]

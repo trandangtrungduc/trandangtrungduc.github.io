@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-09-07
+date: 2021-07-01
 inline: true
 related_posts: false
 ---
 
-:memo: Master student at [SeoulTech](https://en.seoultech.ac.kr/), Seoul, South Korea.
+:computer: Software Engineer at [Bosch](https://www.bosch.com.vn/), Ho Chi Minh City, Vietnam.

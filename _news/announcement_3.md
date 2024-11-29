@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-04-24
+date: 2024-10-28
 inline: true
 related_posts: false
 ---
 
-:mortar_board: Graduated as Mechatronics Engineer at [PFIEV](http://www.pfiev.hcmut.edu.vn/pfiev/), [HCMUT](https://hcmut.edu.vn/en), [VNU-HCM](https://vnuhcm.edu.vn/), Ho Chi Minh City, Vietnam. 
+:dizzy: First author of [a paper](https://arxiv.org/abs/2411.01781) (poster) at [ACM Multimedia 2024](https://2024.acmmm.org/).
