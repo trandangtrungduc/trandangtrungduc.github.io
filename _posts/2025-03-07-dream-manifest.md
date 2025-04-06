@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DreamManifest
+title: Dream Manifest (Personal Project)
 date: 2025-03-07
 description: simulation videos
 tags: gemini videos demo
