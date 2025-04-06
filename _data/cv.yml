@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master
+    - title: Master & Assistant Researcher
       institution: Seoul National University of Science and Technology, Seoul, South Korea
-      year: Sep 2022 - Dec 2024
+      year: Sep 2022 - March 2025
       description:
         - Korean professor scholarship
         - AI Researcher at visual computing lab
@@ -33,9 +33,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: AI Reseacher
       institution: Visual Computing Lab, Seoul, South Korea
-      year: Sep 2022 - Dec 2024
+      year: Sep 2022 - March 2025
       description:
         - title: Researcher
           contents:

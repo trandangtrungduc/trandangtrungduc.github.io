@@ -26,4 +26,3 @@ Despite being the sunniest and windiest region in Vietnam, Ninh Thuan is blessed
 <div class="caption">
     A photo taken in April 2014, Phan Rang - Thap Cham, Ninh Thuan, Vietnam.
 </div>
-
