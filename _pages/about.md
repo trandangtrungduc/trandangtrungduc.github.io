@@ -11,14 +11,13 @@ profile:
   more_info: >
     <p>AI Engineer at Alchemy Technologies</p>
     <p>AI Researcher at SeoulTech</p>
-    <p>Ho Chi Minh City</p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm passionate about AI and robotics. Currently, I'm working as an AI Engineer at [Alchemy Technologies](https://alchemymagic.io/) and serving as an [Assistant Researcher](https://vcl.seoultech.ac.kr/index.do) at Seoul National University of Science and Technology. Feel free to find out more about me in the tabs and information below.
+I'm passionate about AI and robotics. Currently, I'm working as an AI Engineer at [Alchemy Technologies](https://alchemymagic.io/). Feel free to find out more about me in the tabs and information below.
 
  * [Github](https://github.com/trandangtrungduc)
  * [Kaggle](https://www.kaggle.com/ctrnngtrung/)
