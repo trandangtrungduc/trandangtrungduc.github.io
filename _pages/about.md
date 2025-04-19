@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AI Engineer at DigiWorker AI</p>
-    <p>AI Engineer at InnoTech Vietnam</p>
+    <p>AI Engineer at DigiWorker AI and InnoTech Vietnam</p>
     <p>AI Lecturer at MCI Vietnam</p>
 
 news: true # includes a list of news items
