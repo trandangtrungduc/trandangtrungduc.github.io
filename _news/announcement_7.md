@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:computer: AI Engineer at [Alchemy Technologies](https://alchemymagic.io/), Ho Chi Minh City, Vietnam.
+:computer: AI Engineer at [DigiWorker AI](http://digiworker.ai/) and [Innotech Vietnam](https://innotech-vn.com/), AI Lecturer at[MCI Vietnam](https://mcivietnam.com/), Ho Chi Minh City, Vietnam.

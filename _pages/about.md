@@ -9,15 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AI Engineer at Alchemy Technologies</p>
-    <p>AI Researcher at SeoulTech</p>
+    <p>AI Engineer at DigiWorker AI</p>
+    <p>AI Engineer at InnoTech Vietnam</p>
+    <p>AI Lecturer at MCI Vietnam</p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm passionate about AI and robotics. Currently, I'm working as an AI Engineer at [Alchemy Technologies](https://alchemymagic.io/). Feel free to find out more about me in the tabs and information below.
+I'm passionate about AI and robotics. Currently, I'm working as an AI Engineer at [DigiWorker AI](https://digiworker.ai/). Feel free to find out more about me in the tabs and information below.
 
  * [Github](https://github.com/trandangtrungduc)
  * [Kaggle](https://www.kaggle.com/ctrnngtrung/)
