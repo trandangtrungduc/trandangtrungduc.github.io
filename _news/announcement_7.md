@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:computer: Start working as an AI Engineer at [DigiWorker AI](http://digiworker.ai/) and [Innotech Vietnam](https://innotech-vn.com/), AI Lecturer at[MCI Vietnam](https://mcivietnam.com/), Ho Chi Minh City, Vietnam.
+:computer: Start working as an AI Engineer at [DigiWorker AI](http://digiworker.ai/) and [Innotech Vietnam](https://innotech-vn.com/), AI Lecturer at [MCI Vietnam](https://mcivietnam.com/), Ho Chi Minh City, Vietnam.
