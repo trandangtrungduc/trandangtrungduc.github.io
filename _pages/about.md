@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AI </p>
+    <p>AI Engineer at VNG</p>
     <p>AI Lecturer at MCI Vietnam</p>
 
 news: true # includes a list of news items
