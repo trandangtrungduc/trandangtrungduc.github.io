@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>AI Engineer at VNG</p>
-    <p>AI Lecturer at MCI Vietnam</p>
+    <p>AI Instructor at MCI Vietnam</p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
