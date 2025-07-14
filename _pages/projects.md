@@ -16,13 +16,13 @@ horizontal: false
 
 4. :malaysia:: Malacca (08/2019), Kuala Lumpur (08/2019)
 
-5. :kr:: Seoul (08/2022-present), Incheon (07/2023)
+5. :kr:: Seoul (08/2022~02/2025), Incheon (07/2023)
 
 6. :jp:: Osaka (12/2024), Kyoto (12/2024)
  
 7. :thailand:: Bangkok (09/2024)
 
-8. :cn:: Shanghai (11/2024)
+8. :cn:: Shanghai (10/2024, 11/2024, 06/2025)
  
 9. :australia:: Melbourne (11/2024)
 

@@ -1,4 +1,4 @@
-I'm passionate about AI and robotics. Currently, I'm working as an AI Engineer at VNG. I am also an AI lecturer at MCI Vietnam. Feel free to find out more about me in the tabs and information below.
+I'm passionate about AI and robotics. Currently, I'm working as an AI . I am also an AI lecturer at MCI Vietnam. Feel free to find out more about me in the tabs and information below.
 
  * [Github](https://github.com/trandangtrungduc)
  * [Kaggle](https://www.kaggle.com/ctrnngtrung/)
