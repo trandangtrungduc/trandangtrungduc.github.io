@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>AI Engineer at VNG</p>
     <p>Research Assistant at SeoulTech</p
-    <p>AI Instructor at MCI Vietnam</p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"

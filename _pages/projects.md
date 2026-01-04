@@ -22,7 +22,7 @@ horizontal: false
  
 7. :thailand:: Bangkok (09/2024)
 
-8. :cn:: Shanghai (10/2024, 11/2024, 06/2025)
+8. :cn:: Shanghai (10/2024, 11/2024, 06/2025, 12/2025), Hangzhou (12/2025), Shenzhen (12/2025)
  
 9. :australia:: Melbourne (11/2024)
 
