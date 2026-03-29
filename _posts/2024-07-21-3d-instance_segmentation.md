@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MSTA3D - Multi-scale Twin-attention for 3D Instance Segmentation
+title: Multi-scale Twin-attention for 3D Instance Segmentation
 date: 2024-07-21
 description: visualization of 3D point cloud instance segmentation
 tags: paper

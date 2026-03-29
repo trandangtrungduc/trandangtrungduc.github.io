@@ -281,7 +281,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["paper", "personal", "industry"]
+display_tags: ["paper", "personal", "industry", "vibe-coding"]
 display_categories: # ["blockquotes"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

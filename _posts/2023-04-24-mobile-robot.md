@@ -7,7 +7,7 @@ tags: personal
 categories: personal-project
 ---
 
-Real mobile robot model running along the black line. Check [here](https://github.com/trandangtrungduc/NeuralNetworkforMobileRobot) for details.
+Real mobile robot model running along the black line.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,3 +30,5 @@ Simulate obstacle restriction method using [Webots](https://cyberbotics.com/). C
 <div class="col-sm mt-3 mt-md-0">
     {% include video.liquid path="assets/video/ORM_3D_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
+
+Check [here](https://github.com/trandangtrungduc/NeuralNetworkforMobileRobot) for details.
