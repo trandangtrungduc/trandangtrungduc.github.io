@@ -7,7 +7,7 @@ tags: vibe-coding
 categories: vibe-coding-project
 ---
 
-This project is a *Vibe Coding Web & Desktop Application* built with **TypeScript**, featuring a **Python backend** and **Electron** for the desktop experience.
+This project is a _Vibe Coding Web & Desktop Application_ built with **TypeScript**, featuring a **Python backend** and **Electron** for the desktop experience.
 
 It extends the original [OpenLLM Vtuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) project to create an interactive **Live2D character** capable of real-time communication, voice cloning, emotional expression, and screen awareness.
 

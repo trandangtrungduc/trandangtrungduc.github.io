@@ -204,14 +204,7 @@
       "name": "Soft Skill",
       "level": "",
       "icon": "fa-solid fa-person-chalkboard",
-      "keywords": [
-        "Presentation",
-        "Hard-working",
-        "Time Management",
-        "Leadership",
-        "Adaptability",
-        "Problem-solving"
-      ]
+      "keywords": ["Presentation", "Hard-working", "Time Management", "Leadership", "Adaptability", "Problem-solving"]
     },
     {
       "name": "Hard Skill",

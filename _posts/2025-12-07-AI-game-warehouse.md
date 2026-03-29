@@ -7,7 +7,7 @@ tags: vibe-coding
 categories: vibe-coding-project
 ---
 
-This project is a *Vibe Coding Web Application* built with **TypeScript**, powered by **Google Gemini**.
+This project is a _Vibe Coding Web Application_ built with **TypeScript**, powered by **Google Gemini**.
 
 It serves as a repository of AI-generated games, where each application is a standalone interactive experience that can be played directly in the browser. Users can also interact with AI in real time within each game, creating dynamic and engaging gameplay.
 

@@ -7,7 +7,7 @@ tags: vibe-coding
 categories: vibe-coding-project
 ---
 
-This project is a *Vibe Coding Web Application* built with **TypeScript** on the frontend and **Python** on the backend.
+This project is a _Vibe Coding Web Application_ built with **TypeScript** on the frontend and **Python** on the backend.
 
 It integrates advanced models and tools such as **Nano Banana**, **Qwen Editing**, and **Wan 2.6** to streamline AI-powered content creation. The platform serves as a centralized repository of standardized AI workflows for generating art and design assets, including both images and videos.
 
