@@ -1,4 +1,4 @@
-const { execSync } = require('child_process');
+const { execSync } = require("child_process");
 const files = [
   "_config.yml",
   "_data/cv.yml",
@@ -20,7 +20,7 @@ const files = [
   "_projects/5_project.md",
   "_projects/6_project.md",
   "assets/html/msta3d.html",
-  "assets/json/resume.json"
+  "assets/json/resume.json",
 ];
 
 console.log("Starting formatting...");

@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: [seoul, osaka, kyoto, shanghai, melbourne]
 horizontal: false
 ---
+
 1. :vietnam:: Ha Noi, Thai Binh, Quang Ninh, Hai Phong, Lao Cai, Ha Nam, Hue, Da Nang, Quang Nam, Khanh Hoa, Lam Dong, Ninh Thuan, Binh Thuan, Ba Ria - Vung Tau, Ho Chi Minh City, Can Tho, Soc Trang, Bac Lieu, Ben Tre, Ca Mau
 
 2. :singapore:: Singapore (08/2019)
@@ -19,15 +20,14 @@ horizontal: false
 5. :kr:: Seoul (08/2022~02/2025), Incheon (07/2023), Busan (02/2025)
 
 6. :jp:: Osaka (12/2024), Kyoto (12/2024)
- 
+
 7. :thailand:: Bangkok (09/2024)
 
 8. :cn:: Shanghai (10/2024, 11/2024, 06/2025, 12/2025), Hangzhou (12/2025), Shenzhen (12/2025)
- 
+
 9. :australia:: Melbourne (11/2024)
 
 <!-- 8. :australia:: Melbourne -->
-
 
 <!-- pages/projects.md -->
 <div class="projects">

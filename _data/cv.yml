@@ -47,7 +47,7 @@
       description:
         - title: Internship
           contents:
-            - Understanding of software life cycle 
+            - Understanding of software life cycle
             - Version source control
             - Unit testing
             - Self-developed tools
@@ -58,7 +58,7 @@
             - Integration testing / Lab testing
             - Devops
     - title: Coding Bootcamps
-      institution: CBD Robotics, Ho Chi Minh City, Vietnam 
+      institution: CBD Robotics, Ho Chi Minh City, Vietnam
       year: Mar 2021 - Nov 2021
       description:
         - Introduction to machine learning
@@ -83,23 +83,23 @@
   type: time_table
   contents:
     - year: 2024
-      items:    
+      items:
         - Top 4 (mAP_50) and Top 3 (mAP_25) on the 3D Semantic Instance Benchmark (ScanNet Benchmark)
     - year: 2017
-      items:    
+      items:
         - Tuition scholarship for business administration major at International Pacific University, Japan
     - year: 2016
       items:
         - Vietnamese government scholarships in nuclear power industry
     - year: 2015
       items:
-        - The consolidation prize in physics (national contest)  
+        - The consolidation prize in physics (national contest)
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Computer vision
-      items: 
+      items:
         - 3D semantic/instance segmentation
         - Few-shot learning
     - title: Natural language processing

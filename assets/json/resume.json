@@ -30,12 +30,7 @@
       "startDate": "2022-09",
       "endDate": "2024-11",
       "summary": "Working on Korean government projects and writing a research paper",
-      "highlights": [
-        "A paper at ACM Multimedia 2024",
-        "A paper at ACVYS 2024",
-        "A paper at ICEIC 2025",
-        "A patent of KR application"
-      ]
+      "highlights": ["A paper at ACM Multimedia 2024", "A paper at ACVYS 2024", "A paper at ICEIC 2025", "A patent of KR application"]
     },
     {
       "name": "Bosch Global Software Technologies",
@@ -44,9 +39,7 @@
       "startDate": "2021-04",
       "endDate": "2022-07",
       "summary": "Working as a software developer for projects from China and Japan. Task: unit testing, integration testing, component/function development, devops, lab testing, static code analysis,...",
-      "highlights": [
-        "The fastest person can be converted directly to an official employee after 3/6 months of internship."
-      ]
+      "highlights": ["The fastest person can be converted directly to an official employee after 3/6 months of internship."]
     }
   ],
   "education": [
@@ -193,14 +186,7 @@
       "name": "Soft Skill",
       "level": "",
       "icon": "fa-solid fa-person-chalkboard",
-      "keywords": [
-        "Presentation",
-        "Hard-working",
-        "Time Management",
-        "Leadership",
-        "Adaptability",
-        "Problem-solving"
-      ]
+      "keywords": ["Presentation", "Hard-working", "Time Management", "Leadership", "Adaptability", "Problem-solving"]
     },
     {
       "name": "Hard Skill",
@@ -241,21 +227,12 @@
     {
       "name": "Computer Vision",
       "icon": "fa-solid fa-images",
-      "keywords": [
-        "Instance Segmentation",
-        "Semantic Segmentation",
-        "Panoptic Segmentation",
-        "3D/4D Point Cloud",
-        "Lidar"
-      ]
+      "keywords": ["Instance Segmentation", "Semantic Segmentation", "Panoptic Segmentation", "3D/4D Point Cloud", "Lidar"]
     },
     {
       "name": "Robotics",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Autonomous Driving",
-        "VR/AR"
-      ]
+      "keywords": ["Autonomous Driving", "VR/AR"]
     }
   ],
   "projects": [

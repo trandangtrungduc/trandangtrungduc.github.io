@@ -52,4 +52,3 @@ There are 3 ways to get to the island: zipline, canoe and ferry. I chose the fer
 <div class="caption">
     On the left, a snow duck. Middle, have fun with snow. Right, a peacock.
 </div>
-
