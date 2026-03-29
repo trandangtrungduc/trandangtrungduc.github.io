@@ -1,12 +1,9 @@
 {
   "basics": {
     "name": "Tran Dang Trung Duc",
-    "label": "AI Engineer",
-    "image": "",
+    "label": "AI Engineer / AI Researcher",
     "email": "trandangtrungduc@gmail.com",
-    "phone": "(84) 033.265.8181",
-    "url": "https://github.com/trandangtrungduc/",
-    "summary": "AI Engineer at VNGGames",
+    "phone": "(+84) 033.265.8181",
     "location": {
       "address": "Street 4",
       "postalCode": "700000",
@@ -24,13 +21,28 @@
   },
   "work": [
     {
-      "name": "Visual Computing Lab",
+      "name": "VNGGames",
+      "position": "AI Engineer",
+      "url": "https://vnggames.com/vn/vi",
+      "startDate": "2025-05",
+      "endDate": "present",
+      "summary": "Working on AI Play Studio, research and development of AI tools & products for game development"
+    },
+    {
+      "name": "MCI Academy",
+      "position": "AI Instructor",
+      "url": "https://mcivietnam.com/",
+      "startDate": "2025-05",
+      "endDate": "2025-10",
+      "summary": "Developing and instructing AI Engineer / AI Application / n8n courses"
+    },
+    {
+      "name": "Visual Computing Lab - SeoulTech",
       "position": "Assistant Researcher",
       "url": "https://vcl.seoultech.ac.kr/",
       "startDate": "2022-09",
       "endDate": "2024-11",
-      "summary": "Working on Korean government projects and writing a research paper",
-      "highlights": ["A paper at ACM Multimedia 2024", "A paper at ACVYS 2024", "A paper at ICEIC 2025", "A patent of KR application"]
+      "summary": "Working on Korean government projects and writing a research paper"
     },
     {
       "name": "Bosch Global Software Technologies",
@@ -38,8 +50,7 @@
       "url": "https://www.bosch-softwaretechnologies.com/en/index.html",
       "startDate": "2021-04",
       "endDate": "2022-07",
-      "summary": "Working as a software developer for projects from China and Japan. Task: unit testing, integration testing, component/function development, devops, lab testing, static code analysis,...",
-      "highlights": ["The fastest person can be converted directly to an official employee after 3/6 months of internship."]
+      "summary": "Working as a Software Developer for projects from China and Japan. Task: unit testing, integration testing, component/function development, devops, lab testing, static code analysis,..."
     }
   ],
   "education": [
@@ -48,10 +59,10 @@
       "location": "Seoul, South Korea",
       "url": "https://en.seoultech.ac.kr/",
       "area": "Computer Vision - 33 credits in 4 semesters",
-      "studyType": "Master",
+      "studyType": "Master Program",
       "startDate": "2022-09-01",
       "endDate": "2024-12-01",
-      "score": "4.5/4.5",
+      "score": "4.45/4.5",
       "courses": [
         "Introduction of Unmanned Robotic Vehicles",
         "Reinforcement Learning",
@@ -70,7 +81,7 @@
       "location": "HCM City, Vietnam",
       "url": "https://hcmut.edu.vn/",
       "area": "Data Science - 18 credits in 1 semester",
-      "studyType": "Master",
+      "studyType": "Master Program",
       "startDate": "2021-03",
       "endDate": "2022-11",
       "score": "8.07/10",
@@ -88,7 +99,7 @@
       "location": "HCM City, Vietnam",
       "url": "https://hcmut.edu.vn/",
       "area": "Mechatronics - 268 credits in 5 years",
-      "studyType": "Engineer",
+      "studyType": "Excellent Engineer Program",
       "startDate": "2015-09",
       "endDate": "2021-11",
       "score": "7.87/10",
@@ -109,49 +120,56 @@
   ],
   "achievements": [
     {
-      "title": "Scholarship",
+      "title": "Scholarship for PhD Program",
+      "date": "2025",
+      "awarder": "Full Scholarship",
+      "url": "https://en.seoultech.ac.kr/",
+      "summary": "100% tuition fee + living expenses for 4 PhD years at Seoul National University of Science and Technology in South Korea"
+    },
+    {
+      "title": "Scholarship for Master Program",
       "date": "2022-2024",
       "awarder": "Tuition scholarships",
       "url": "https://en.seoultech.ac.kr/",
       "summary": "75% tuition scholarship for all semesters at Seoul National University of Science and Technology in South Korea"
     },
     {
-      "title": "Scholarship",
+      "title": "Scholarship for Master Program",
       "date": "2022",
       "awarder": "Korean Professor",
       "url": "https://vcl.seoultech.ac.kr/",
       "summary": "Full scholarship for studying and researching at Visual Computing Lab of Seoul National University of Science and Technology in South Korea"
     },
     {
-      "title": "Final round",
+      "title": "Final round for Exchange Program",
       "date": "2018",
       "awarder": "Pasona Global",
       "url": "https://www.hutech.edu.vn/khoanhatban/tin-tuc-su-kien/14567517-chuong-trinh-giao-luu-quoc-te-pasona",
       "summary": "Full scholarship for students all over Vietnam. Reached the final round (Top 5) of the Pasona International Exchange Program for students doing summer internships in Japan"
     },
     {
-      "title": "Scholarship",
+      "title": "Scholarship for Engineer Program",
       "date": "2018",
       "awarder": "Ho Chi Minh City University of Technology",
       "url": "https://hcmut.edu.vn/tintuc/chuong-trinh-phat-trien-nguon-nhan-luc-viet-nhat",
       "summary": "Full scholarship to learn Japanese to prepare to work as an engineer in Japan. The only student who does not need to study Japanese language preparation for the scholarship."
     },
     {
-      "title": "Scholarship",
+      "title": "Scholarship for Undergraduate Program",
       "date": "2017",
       "awarder": "Tuition scholarships",
       "url": "https://ipu-japan.ac.jp/vietnam/",
       "summary": "Full scholarship for students all over Vietnam. Top 1/2 students received 100% tuition scholarships for Business Administration at International Pacific University in Japan"
     },
     {
-      "title": "Final round",
+      "title": "Final round for Undergraduate Program",
       "date": "2017",
       "awarder": "Mitsubishi Heavy Industries",
       "url": "https://hssv.ulis.vnu.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-nhat-ban-nam-2017-2018-hoc-bong-mitsubishi/",
       "summary": "Full scholarship for students all over Vietnam to study Japanese and university in Japan. Reached the final round (Top 6) of the scholarship"
     },
     {
-      "title": "Scholarship",
+      "title": "Scholarship for Undergraduate Program",
       "date": "2016",
       "awarder": "Vietnamese Government",
       "url": "https://icd.edu.vn/372/thong-bao-tuyen-sinh-di-hoc-dai-hoc-ve-nang-luong-nguyen-tu-tai-nhat-ban-nam-2016.html/BPF/vi-VN/CMS_Cat/Thong-Tin-Tuyen-Sinh/CMS_Detail/1173",
@@ -186,18 +204,25 @@
       "name": "Soft Skill",
       "level": "",
       "icon": "fa-solid fa-person-chalkboard",
-      "keywords": ["Presentation", "Hard-working", "Time Management", "Leadership", "Adaptability", "Problem-solving"]
+      "keywords": [
+        "Presentation",
+        "Hard-working",
+        "Time Management",
+        "Leadership",
+        "Adaptability",
+        "Problem-solving"
+      ]
     },
     {
       "name": "Hard Skill",
       "level": "",
       "icon": "fa-solid fa-pencil",
       "keywords": [
-        "Microsoft Office",
-        "Python Programming",
-        "Github, Docker, PyTorch",
-        "Libraries: PLY, Sponv, Open3D, Minkowski, OpenCV, PaddleOCR,...",
-        "LLMs: GPT, Gemini, Llama, Claude, Deepseek, Grok,..."
+        "Languages: Python, Typescripts, Go, C++",
+        "Frameworks: PyTorch, Tensorflow, Google ADK, Langchain, LangGraph,... ",
+        "Tools: Github, Docker, Git, OpenClaw, HiClaw, CoPaw,...",
+        "Cloud: Alibaba Cloud, AWS, GCP.",
+        "AI Models: Gemini, Claude, Qwen, OpenAI, Deepseek, Grok,..."
       ]
     }
   ],
@@ -213,12 +238,12 @@
       "icon": ""
     },
     {
-      "language": "Japanese",
+      "language": "Japanese (N2 JLPT)",
       "fluency": "Professional working proficiency",
       "icon": ""
     },
     {
-      "language": "French",
+      "language": "French (DELF B1)",
       "fluency": "Limited working proficiency",
       "icon": ""
     }
@@ -226,43 +251,19 @@
   "interests": [
     {
       "name": "Computer Vision",
-      "icon": "fa-solid fa-images",
-      "keywords": ["Instance Segmentation", "Semantic Segmentation", "Panoptic Segmentation", "3D/4D Point Cloud", "Lidar"]
+      "icon": "fa-solid fa-images"
+    },
+    {
+      "name": "Large Language Models",
+      "icon": "fa-solid fa-brain"
+    },
+    {
+      "name": "Edge AI",
+      "icon": "fa-solid fa-microchip"
     },
     {
       "name": "Robotics",
-      "icon": "fa-solid fa-robot",
-      "keywords": ["Autonomous Driving", "VR/AR"]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Multi-AI Agent for Discord",
-      "url": "https://discord.gg/s93zTmK3"
-    },
-    {
-      "name": "Llama for Paper Summary",
-      "url": "https://github.com/trandangtrungduc/llama-paper-summary"
-    },
-    {
-      "name": "AI Dictionary for Vietnamese People",
-      "url": "https://github.com/aidic-org-ebook"
-    },
-    {
-      "name": "Rule-based Chatbot Combined with ParlAI",
-      "url": "https://github.com/trandangtrungduc/ChatBot"
-    },
-    {
-      "name": "Neural Network Controller for Line Follower Robot",
-      "url": "https://github.com/trandangtrungduc/ChatBot"
-    },
-    {
-      "name": "Obstacle Avoiding & Grasping Robot",
-      "url": "https://github.com/trandangtrungduc/ObstacleAvoiding-GraspingRobot"
-    },
-    {
-      "name": "Arm Robot of 3 Degree of Freedom",
-      "url": "https://github.com/trandangtrungduc/ArmRobot3DOF"
+      "icon": "fa-solid fa-robot"
     }
   ]
 }
