@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:computer: Start working as an AI Engineer at [VNG](https://www.vng.com.vn/), Ho Chi Minh City, Vietnam.
+:computer: AI Engineer at [VNG](https://www.vng.com.vn/), Ho Chi Minh City, Vietnam.
