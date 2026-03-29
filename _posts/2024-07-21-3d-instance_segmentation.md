@@ -3,7 +3,7 @@ layout: post
 title: MSTA3D - Multi-scale Twin-attention for 3D Instance Segmentation
 date: 2024-07-21
 description: visualization of 3D point cloud instance segmentation
-tags: images instance-segmentation transformer visualization
+tags: paper
 categories: paper
 ---
 
@@ -41,7 +41,7 @@ Visualize results on validation set of [ScanNetv2](http://www.scan-net.org/) dat
     </div>
 </div>
 <div class="caption">
-    Bottom row: from left to right are <a href="https://github.com/VinAIResearch/ISBNet">ISBNet</a>, <a href="https://github.com/sunjiahao1999/SPFormer">SPFormer</a>, <a href="https://github.com/dvlab-research/Mask-Attention-Free-Transformer">MAFT</a> and <a href="https://github.com/vcl-seoultech/MSTA3D">MSTA3D</a> respectively
+    Bottom row: from left to right are <a href="https://github.com/VinAIResearch/ISBNet">ISBNet</a>, <a href="https://github.com/sunjiahao1999/SPFormer">SPFormer</a>, <a href="https://github.com/dvlab-research/Mask-Attention-Free-Transformer">MAFT</a> and MSTA3D respectively
 </div>
 
 Other examples

@@ -15,10 +15,10 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm passionate about AI and robotics. I'm currently an AI Engineer at [VNG](https://www.vng.com.vn/) Games, working in the Game AI Studio team. Feel free to explore more about me in the sections below.
+I'm passionate about AI and robotics. Feel free to explore more about me in the sections below.
 
+ * [Linkedin](https://www.linkedin.com/in/trandangtrungduc/)
  * [Github](https://github.com/trandangtrungduc)
  * [Kaggle](https://www.kaggle.com/ctrnngtrung/)
  * [HuggingFace](https://huggingface.co/TDTDuc)
  * [StackOverflow](https://stackoverflow.com/users/19921706/genz)
- * [Linkedin](https://www.linkedin.com/in/trandangtrungduc/)
