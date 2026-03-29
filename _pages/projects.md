@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fun
+title: Blog
 permalink: /projects/
 description: World in my eyes
 nav: true

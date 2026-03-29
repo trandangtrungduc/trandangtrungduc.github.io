@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: D'log # blog_name will be displayed in your blog page
+blog_name: Project # blog_name will be displayed in your blog page
 blog_description: Demonstration and Visualization
 permalink: /blog/:year/:title/
 

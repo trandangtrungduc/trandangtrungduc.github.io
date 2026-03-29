@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mortar_board: Graduated as Mechatronics Engineer at [PFIEV](http://www.pfiev.hcmut.edu.vn/pfiev/) (recognized as equivalent to a Master), [HCMUT](https://hcmut.edu.vn/en), [VNU-HCM](https://vnuhcm.edu.vn/), Ho Chi Minh City, Vietnam. 
+:mortar_board: My university program is [P.F.I.E.V](http://www.pfiev.hcmut.edu.vn/pfiev/) (Programme de Formation d'Ingénieurs d’Excellence au Vietnam), conducted at [HCMUT](https://hcmut.edu.vn/en), under [VNU-HCM](https://vnuhcm.edu.vn/). The diploma is recognized as equivalent to a Master’s degree, with an addendum co-signed by HCMUT, VNU-HCM, and [Grenoble Institute of Technology](https://www.grenoble-inp.fr/).
