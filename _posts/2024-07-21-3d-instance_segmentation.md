@@ -2,7 +2,7 @@
 layout: post
 title: Multi-scale Twin-attention for 3D Instance Segmentation
 date: 2024-07-21
-description: visualization of 3D point cloud instance segmentation
+description: Visualization and comparison of 3D point cloud instance segmentation results
 tags: paper
 categories: paper
 ---
