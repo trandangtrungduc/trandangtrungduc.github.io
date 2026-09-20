@@ -21,7 +21,7 @@ horizontal: false
 
 6. :jp:: Osaka (12/2024), Kyoto (12/2024)
 
-7. :thailand:: Bangkok (09/2024), Bangkok (09/2026)
+7. :thailand:: Bangkok (09/2024), Phuket (09/2026)
 
 8. :cn:: Shanghai (10/2024, 11/2024, 06/2025, 12/2025), Hangzhou (12/2025), Shenzhen (12/2025)
 
