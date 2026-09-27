@@ -716,12 +716,6 @@ footer.sticky-bottom {
             }
           }
         }
-
-        .award {
-          color: #dc3545 !important;
-          border: 1px solid #dc3545;
-          background-color: transparent;
-        }
       }
 
       .title {
@@ -771,7 +765,9 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
+          color: #dc3545;
           border-color: #dc3545;
+          background-color: transparent;
 
           &:hover {
             color: #fff !important;
