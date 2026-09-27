@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:rocket: Contributor at Google [Agent Development Kit](https://github.com/google/adk-python/graphs/contributors).
+:rocket: Contributor at [Google Agent Development Kit](https://github.com/google/adk-python/graphs/contributors).
