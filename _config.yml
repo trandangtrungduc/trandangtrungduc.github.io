@@ -83,8 +83,8 @@ lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: trandangtrungduc # your Medium username
-orcid_id: 0009-0007-0061-4642 # your ORCID ID
+# medium_username: trandangtrungduc # your Medium username
+# orcid_id: 0009-0007-0061-4642 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -94,7 +94,7 @@ scholar_userid: oY73f20AAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
-stackoverflow_id: 19921706 # your stackoverflow id
+# stackoverflow_id: 19921706 # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
@@ -185,7 +185,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 10 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
