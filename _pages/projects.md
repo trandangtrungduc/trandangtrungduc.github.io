@@ -5,9 +5,9 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [seoul, osaka, kyoto, shanghai, melbourne]
-horizontal: false
 ---
+
+## 🌍 Places I've Travelled To
 
 1. :vietnam:: Ha Noi, Thai Binh, Quang Ninh, Hai Phong, Lao Cai, Ha Nam, Hue, Da Nang, Quang Nam, Khanh Hoa, Lam Dong, Ninh Thuan, Binh Thuan, Ba Ria - Vung Tau, Ho Chi Minh City, Can Tho, Soc Trang, Bac Lieu, Ben Tre, Ca Mau
 
@@ -26,3 +26,15 @@ horizontal: false
 8. :cn:: Shanghai (10/2024, 11/2024, 06/2025, 12/2025), Hangzhou (12/2025), Shenzhen (12/2025)
 
 9. :australia:: Melbourne (11/2024)
+
+---
+
+## ✨ Things About Me
+
+<!-- Add interesting facts about yourself here -->
+
+---
+
+## ☠️ Bucket List
+
+<!-- Add things you want to do before dying here -->
